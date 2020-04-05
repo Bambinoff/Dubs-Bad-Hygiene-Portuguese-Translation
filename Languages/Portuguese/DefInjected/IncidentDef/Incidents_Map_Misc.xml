@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dysentery.label>disenteria</Dysentery.label>
+  <Cholera.label>cólera</Cholera.label>
+  <Diarrhea.label>diarreia</Diarrhea.label>
+
+ <TowerContamination.label>fonte Contaminada</TowerContamination.label>
+  <TowerContamination.letterText>Uma fonte de água foi contaminada, o que representa um sério risco para a saúde de seus colonos! Drene a torre para eliminar a poluição ou construir um sistema de tratamento de água.</TowerContamination.letterText>
+  <TowerContamination.letterLabel>Fonte de água contaminada</TowerContamination.letterLabel>
+
+</LanguageData>

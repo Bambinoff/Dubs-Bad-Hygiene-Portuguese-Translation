@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsBurnPit.label>queima resêduos da fossa</DoBillsBurnPit.label>
+  <DoBillsBurnPit.verb>queimar</DoBillsBurnPit.verb>
+  <DoBillsBurnPit.gerund>queimando</DoBillsBurnPit.gerund>
+
+  <RemoveSewage.label>elimina esgoto em barris</RemoveSewage.label>
+  <RemoveSewage.verb>eliminar esgoto</RemoveSewage.verb>
+  <RemoveSewage.gerund>eliminando esgoto</RemoveSewage.gerund>
+
+  <UnloadWashing.label>
+descarrega máquina</UnloadWashing.label>
+  <UnloadWashing.verb>
+descarregar máquina</UnloadWashing.verb>
+  <UnloadWashing.gerund>descarregando máquina</UnloadWashing.gerund>
+
+  <LoadWashing.label>carrega máquina</LoadWashing.label>
+  <LoadWashing.verb>carregar máquina</LoadWashing.verb>
+  <LoadWashing.gerund>carregando máquina</LoadWashing.gerund>
+
+  <UnloadComposter.label>retira adubo da composteira</UnloadComposter.label>
+  <UnloadComposter.verb>retirar adubo</UnloadComposter.verb>
+  <UnloadComposter.gerund>retirando adubo</UnloadComposter.gerund>
+
+  <FillComposter.label>enche composteira</FillComposter.label>
+  <FillComposter.verb>encher composteira </FillComposter.verb>
+  <FillComposter.gerund>enchendo composteira</FillComposter.gerund>
+
+  <emptySepticTank.label>esvazia fossa séptica</emptySepticTank.label>
+  <emptySepticTank.verb>esvaziar</emptySepticTank.verb>
+  <emptySepticTank.gerund>esvaziando</emptySepticTank.gerund>
+
+  <emptyLatrine.label>esvazia letrina</emptyLatrine.label>
+  <emptyLatrine.verb>esvaziar</emptyLatrine.verb>
+  <emptyLatrine.gerund>esvaziando</emptyLatrine.gerund>
+
+  <RefillTub.label>enche banheira</RefillTub.label>
+  <RefillTub.verb>encher banheira</RefillTub.verb>
+  <RefillTub.gerund>enchendo banheira</RefillTub.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PipeVisibility.label>Visibilidade do encanamento</PipeVisibility.label>
+  <PipeVisibility.tip>Como os encanamento devem ser mostrado</PipeVisibility.tip>
+  <PipeVisibility.options.0.label>Oculto</PipeVisibility.options.0.label>
+  <PipeVisibility.options.1.label>Escondido debaixo do chão</PipeVisibility.options.1.label>
+  <PipeVisibility.options.2.label>Sempre visivel</PipeVisibility.options.2.label>
+
+  <WaterPumpCapacity.label>Bomba de água</WaterPumpCapacity.label>
+  <WaterPumpCapacity.options.0.label>Trapaça</WaterPumpCapacity.options.0.label>
+  <WaterPumpCapacity.tip>Multiplique a capacidade das bombas de água</WaterPumpCapacity.tip>
+
+
+  <HygieneRateD.label>Taxa de higiene</HygieneRateD.label>
+  <HygieneRateD.options.0.label>Trapaça</HygieneRateD.options.0.label>
+  <HygieneRateD.tip>Quão rápido cai a necessidade de higiene</HygieneRateD.tip>
+  
+  
+  <FlushSize.label>Esgoto produzido</FlushSize.label>
+  <FlushSize.options.0.label>Trapaça</FlushSize.options.0.label>
+  <FlushSize.tip>Quanto de esgoto é produzido em cada descarga</FlushSize.tip>
+  
+  <ThirstRateD.label>Taxa de sede</ThirstRateD.label>
+  <ThirstRateD.options.0.label>Trapaça</ThirstRateD.options.0.label>
+  <ThirstRateD.tip>Quão rápido a necessidade de sede cai</ThirstRateD.tip>
+  
+
+  <BladderRateD.label>Taxa de bexiga</BladderRateD.label>
+  <BladderRateD.options.0.label>Trapaça</BladderRateD.options.0.label>
+  <BladderRateD.tip>Quão rápido a necessidade ir ao banheiro</BladderRateD.tip>
+
+
+  <ContaminationChance.label>Contaminação</ContaminationChance.label>
+  <ContaminationChance.options.0.label>Trapaça</ContaminationChance.options.0.label>
+  <ContaminationChance.tip>Multiplique a chance de um colono ser contaminado por água não tratada</ContaminationChance.tip>
+ 
+
+  <WaterHeatingRate.label>Uso de água quente</WaterHeatingRate.label>
+  <WaterHeatingRate.options.0.label>Trapaça</WaterHeatingRate.options.0.label>
+  <WaterHeatingRate.tip>Multiplique a quantidade de água quente usada durante o banho</WaterHeatingRate.tip>
+
+
+  <SewageGridCapacity.label>Limite de esgoto</SewageGridCapacity.label>
+  <SewageGridCapacity.options.0.label>Trapaça</SewageGridCapacity.options.0.label>
+  <SewageGridCapacity.tip>Defina o limite de quanto esgoto pode caber em uma célula na superficie</SewageGridCapacity.tip>
+  
+  
+  <SewageCleanupRateB.label>Limpeza de esgoto</SewageCleanupRateB.label>
+  <SewageCleanupRateB.options.0.label>Trapaça</SewageCleanupRateB.options.0.label>
+  <SewageCleanupRateB.tip>Quão rãpido o esgoto na superficie limpa com o tempo</SewageCleanupRateB.tip>
+
+
+  <SewageProcRate.label>Tratamento esgoto</SewageProcRate.label>
+  <SewageProcRate.options.0.label>Trapaça</SewageProcRate.options.0.label>
+  <SewageProcRate.tip>Multiplique a rapidez com que o esgoto é tratado em fossas sépticas e tratamento de esgoto</SewageProcRate.tip>
+
+
+  <IrrigationGridStrength.label>Força de irrigação</IrrigationGridStrength.label>
+  <IrrigationGridStrength.options.0.label>Trapaça</IrrigationGridStrength.options.0.label>
+  <IrrigationGridStrength.tip>Multiplique o efeito da irrigação na fertilidade</IrrigationGridStrength.tip>
+
+
+  <FertilizerGridStrength.label>Força do fertilizante</FertilizerGridStrength.label>
+  <FertilizerGridStrength.options.0.label>Trapaça</FertilizerGridStrength.options.0.label>
+  <FertilizerGridStrength.tip>Multiplique o efeito do fertilizante na fertilização</FertilizerGridStrength.tip>
+
+
+  <TerrainFertilityFactor.label>Fertilidade base</TerrainFertilityFactor.label>
+  <TerrainFertilityFactor.options.0.label>Trapaça</TerrainFertilityFactor.options.0.label>
+  <TerrainFertilityFactor.tip>Defina o valor base da fertilidade do terreno</TerrainFertilityFactor.tip>
+
+
+</LanguageData>

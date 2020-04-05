@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Heating -->
+
+  <Thermostat.label>termostato</Thermostat.label>
+  <Thermostat.description>Usado para controlar caldeiras elétricas e a biocombustivel. Mais de 1 pode ser colocado. Conecta-se através do encanamento padrão.</Thermostat.description>
+  <Thermostat_blueprint.label>termostato (projeto)</Thermostat_blueprint.label>
+  <Thermostat_blueprint_Install.label>termostato (projeto)</Thermostat_blueprint_Install.label>
+  <Thermostat_Frame.label>termostato (construção)</Thermostat_Frame.label>
+  <Thermostat_Frame.description>Usado para controlar caldeiras elétricas e a biocombustivel. Mais de 1 pode ser colocado. </Thermostat_Frame.description>
+
+  <LogBoiler.label>caldeira a lenha</LogBoiler.label>
+  <LogBoiler.description>Produz 2000 unidades de aquecimento para radiadores e tanques de água quente. Requer madeira como combustivel.</LogBoiler.description>
+  <LogBoiler_blueprint.label>caldeira a lenha (projeto)</LogBoiler_blueprint.label>
+  <LogBoiler_blueprint_Install.label>caldeira a lenha (projeto)</LogBoiler_blueprint_Install.label>
+  <LogBoiler_Frame.label>caldeira a lenha (construção)</LogBoiler_Frame.label>
+  <LogBoiler_Frame.description>Produz 2000 unidades de aquecimento para radiadores e tanques de água quente. Requer madeira como combustivel.</LogBoiler_Frame.description>
+
+  <GasBoiler.label>caldeira a combustivel</GasBoiler.label>
+  <GasBoiler.description>Produz 2000 unidades de aquecimento para radiadores e tanques de água quente. Requer biocombustivel. Pode ser controlado por termostatos.</GasBoiler.description>
+  <GasBoiler_blueprint.label>caldeira a combustivel (projeto)</GasBoiler_blueprint.label>
+  <GasBoiler_blueprint_Install.label>caldeira a combustivel (projeto)</GasBoiler_blueprint_Install.label>
+  <GasBoiler_Frame.label>caldeira a biocombustivel (construção)</GasBoiler_Frame.label>
+  <GasBoiler_Frame.description>Produz 2000 unidades de aquecimento para radiadores e tanques de água quente. Requer biocombustivel. Pode ser controlado por termostatos.</GasBoiler_Frame.description>
+
+  <ElectricBoiler.label>caldeira Elétrica</ElectricBoiler.label>
+  <ElectricBoiler.description>Produz uma quantidade variável de unidades de aquecimento para radiadores e tanques de água quente. Configuração de energia controlada manualmente. Pode ser controlado por termostatos.</ElectricBoiler.description>
+  <ElectricBoiler_blueprint.label>caldeira Elétrica (projeto)</ElectricBoiler_blueprint.label>
+  <ElectricBoiler_blueprint_Install.label>caldeira Elétrica (projeto)</ElectricBoiler_blueprint_Install.label>
+  <ElectricBoiler_Frame.label>caldeira Elétrica (construção)</ElectricBoiler_Frame.label>
+  <ElectricBoiler_Frame.description>Produz uma quantidade variável de unidades de aquecimento para radiadores e tanques de água quente. Configuração de energia controlada manualmente. Pode ser controlado por termostatos.</ElectricBoiler_Frame.description>
+
+  <SolarHeater.label>aquecedor solar</SolarHeater.label>
+  <SolarHeater.description>Usa a luz solar para aquecer tanques de água quente e radiadores. 0-2000 unidades de potência de aquecimento, dependendo do nivel de luz e temperatura ambiente.</SolarHeater.description>
+  <SolarHeater_blueprint.label>aquecedor solar (projeto)</SolarHeater_blueprint.label>
+  <SolarHeater_Frame.label>aquecedor solar (construção)</SolarHeater_Frame.label>
+  <SolarHeater_Frame.description>Usa a luz solar para aquecer tanques de água quente e radiadores. 0-2000 unidades de potência de aquecimento, dependendo do nivel de luz e temperatura ambiente.</SolarHeater_Frame.description>
+
+  <HotWaterTank.label>tanque de água quente</HotWaterTank.label>
+  <HotWaterTank.description>Armazena água quente para chuveiros e banhos. Ligue a qualquer caldeira para aquecer.</HotWaterTank.description>
+  <HotWaterTank_blueprint.label>tanque de água quente (projeto)</HotWaterTank_blueprint.label>
+  <HotWaterTank_blueprint_Install.label>tanque de de água quente (projeto)</HotWaterTank_blueprint_Install.label>
+  <HotWaterTank_Frame.label>tanque de água quente(construção)</HotWaterTank_Frame.label>
+  <HotWaterTank_Frame.description>Armazena água quente para chuveiros e banhos. Ligue a qualquer caldeira para aquecer.</HotWaterTank_Frame.description>
+
+  <RadiatorStuffed.label>radiador</RadiatorStuffed.label>
+  <RadiatorStuffed.description>Aquece as salas usando água quente. Requer 100 unidades de aquecimento.</RadiatorStuffed.description>
+  <RadiatorStuffed_blueprint.label>radiador (projeto)</RadiatorStuffed_blueprint.label>
+  <RadiatorStuffed_blueprint_Install.label>radiador (projeto)</RadiatorStuffed_blueprint_Install.label>
+  <RadiatorStuffed_Frame.label>radiador (construção)</RadiatorStuffed_Frame.label>
+  <RadiatorStuffed_Frame.description>Aquece as salas usando água quente. Requer 100 unidades de aquecimento.</RadiatorStuffed_Frame.description>
+
+  <RadiatorLarge.label>radiador grande</RadiatorLarge.label>
+  <RadiatorLarge.description>3 vezes o resultado de um radiador padrão, útil para salas maiores. Requer 300 unidades de aquecimento.</RadiatorLarge.description>
+  <RadiatorLarge_blueprint.label>radiador grande (projeto)</RadiatorLarge_blueprint.label>
+  <RadiatorLarge_blueprint_Install.label>radiador grande (projeto)</RadiatorLarge_blueprint_Install.label>
+  <RadiatorLarge_Frame.label>radiador grande (construção)</RadiatorLarge_Frame.label>
+  <RadiatorLarge_Frame.description>3 vezes o resultado de um radiador padrão, útil para salas maiores. Requer 300 unidades de aquecimento.</RadiatorLarge_Frame.description>
+
+
+  <!-- COOLING -->
+
+  <CeilingFan.label>ventilador de teto 2x2</CeilingFan.label>
+  <CeilingFan.description>Refresca uma sala circulando ar. Inclui uma lâmpada embutida.</CeilingFan.description>
+  <CeilingFan_blueprint.label>ventilador de teto 2x2(projeto)</CeilingFan_blueprint.label>
+  <CeilingFan_blueprint_Install.label>ventilador de teto 2x2(projeto)</CeilingFan_blueprint_Install.label>
+  <CeilingFan_Frame.label>ventilador de teto 2x2(construção)</CeilingFan_Frame.label>
+  <CeilingFan_Frame.description>Refresca uma sala circulando ar. Inclui uma lâmpada embutida.</CeilingFan_Frame.description>
+
+  <CeilingFanS.label>ventilador de teto 1x1</CeilingFanS.label>
+  <CeilingFanS.description>Refresca uma sala circulando ar. Inclui uma lâmpada embutida.</CeilingFanS.description>
+  <CeilingFanS_blueprint.label>ventilador de teto 1x1 (projeto)</CeilingFanS_blueprint.label>
+  <CeilingFanS_blueprint_Install.label>ventilador de teto 1x1 (projeto)</CeilingFanS_blueprint_Install.label>
+  <CeilingFanS_Frame.label>ventilador de teto 1x1 (construção)</CeilingFanS_Frame.label>
+  <CeilingFanS_Frame.description>Refresca uma sala circulando ar. Inclui uma lâmpada embutida.</CeilingFanS_Frame.description>
+
+  <AirConOutdoorUnit.label>condensadora</AirConOutdoorUnit.label>
+  <AirConOutdoorUnit.description>Unidade de ar condicionado. Coloque ao ar livre, junto com unidades internas ou unidades de freezer. Seleção do modo de energia com capacidade de 100-1000 unidades de refrigeração.</AirConOutdoorUnit.description>
+  <AirConOutdoorUnit_blueprint.label>condensadora (projeto)</AirConOutdoorUnit_blueprint.label>
+  <AirConOutdoorUnit_blueprint_Install.label>condensadora (projeto)</AirConOutdoorUnit_blueprint_Install.label>
+  <AirConOutdoorUnit_Frame.label>condensadora (construção)</AirConOutdoorUnit_Frame.label>
+  <AirConOutdoorUnit_Frame.description>Unidade de ar condicionado. Coloque ao ar livre, junto com unidades internas ou unidades de freezer. Seleção do modo de energia com capacidade de 100-1000 unidades de refrigeração.</AirConOutdoorUnit_Frame.description>
+
+  <AirconIndoorUnit.label>ar Condicionado</AirconIndoorUnit.label>
+  <AirconIndoorUnit.description>Ar-condicionado interna para salas. Conecte-se a condensadora. Requer 100 unidades de refrigeração.</AirconIndoorUnit.description>
+  <AirconIndoorUnit_blueprint.label>ar Condicionado (projeto)</AirconIndoorUnit_blueprint.label>
+  <AirconIndoorUnit_blueprint_Install.label>ar Condicionado (projeto)</AirconIndoorUnit_blueprint_Install.label>
+  <AirconIndoorUnit_Frame.label>ar Condicionado (construção)</AirconIndoorUnit_Frame.label>
+  <AirconIndoorUnit_Frame.description>Ar-condicionado interna para salas. Conecte-se a condensadora. Requer 100 unidades de refrigeração. </AirconIndoorUnit_Frame.description>
+
+  <FreezerUnit.label>refrigerator</FreezerUnit.label>
+  <FreezerUnit.description>Refrigerator para criar um freezer.conecte-se a uma condensadora.Requer 300 unidades de refrigeração. </FreezerUnit.description>
+  <FreezerUnit_blueprint.label>refrigerator (projeto)</FreezerUnit_blueprint.label>
+  <FreezerUnit_blueprint_Install.label>refrigerator (projeto)</FreezerUnit_blueprint_Install.label>
+  <FreezerUnit_Frame.label>refrigerator (construção)</FreezerUnit_Frame.label>
+  <FreezerUnit_Frame.description>Refrigerator para criar um freezer. conecte-se a uma condensadora. Requer 300 unidades de refrigeração. </FreezerUnit_Frame.description>
+
+</LanguageData>

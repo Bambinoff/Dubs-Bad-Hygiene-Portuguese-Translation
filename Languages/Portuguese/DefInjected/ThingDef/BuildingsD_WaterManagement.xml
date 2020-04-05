@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WATER PUMPING -->
+
+  <WaterWellInlet.label>poço de água</WaterWellInlet.label>
+  <WaterWellInlet.description>Acessa a água subterrânea que pode ser bombeada por bombas de água. A presença de esgoto ou outra poluição reduzirá a qualidade da água e pode causar contaminação.</WaterWellInlet.description>
+  <WaterWellInlet_blueprint.label>poço de água (projeto)</WaterWellInlet_blueprint.label>
+  <WaterWellInlet_Frame.label>poço de água (construção)</WaterWellInlet_Frame.label>
+  <WaterWellInlet_Frame.description>Acessa a água subterrânea que pode ser bombeada por bombas de água. A presença de esgoto ou outra poluição reduzirá a qualidade da água e pode causar contaminação.</WaterWellInlet_Frame.description>
+
+  <DeepWaterWellInlet.label>poço de água profundo</DeepWaterWellInlet.label>
+  <DeepWaterWellInlet.description>Acessa uma grande área de água subterrânea que pode ser bombeada por bombas de água. Poços profundos não são afetados pela contaminação.</DeepWaterWellInlet.description>
+  <DeepWaterWellInlet_blueprint.label>poço de água profundo(projeto)</DeepWaterWellInlet_blueprint.label>
+  <DeepWaterWellInlet_Frame.label>poço de água profundo(construção)</DeepWaterWellInlet_Frame.label>
+  <DeepWaterWellInlet_Frame.description>Acessa uma grande área de água subterrânea que pode ser bombeada por bombas de água. Poços profundos não são afetados pela contaminação.</DeepWaterWellInlet_Frame.description>
+
+  <WaterButt.label>barril de água</WaterButt.label>
+  <WaterButt.description>Armazena água para o uso de instalações hidráulicas. Se a água contida estiver contaminada, o tanque deve ser drenado.</WaterButt.description>
+  <WaterButt_blueprint.label>barril de água (projeto)</WaterButt_blueprint.label>
+  <WaterButt_blueprint_Install.label>barril de água (projeto)</WaterButt_blueprint_Install.label>
+  <WaterButt_Frame.label>Barril de água (construção)</WaterButt_Frame.label>
+  <WaterButt_Frame.description>Armazena água para o uso de instalações hidráulicas. Se a água contida estiver contaminada, o tanque deve ser drenado.</WaterButt_Frame.description>
+
+  <WaterTowerS.label>torre de água</WaterTowerS.label>
+  <WaterTowerS.description>Armazena água para o uso de instalações hidráulicas. Se a água contida estiver contaminada, o tanque deve ser drenado.</WaterTowerS.description>
+  <WaterTowerS_blueprint.label>torre de água projeto)</WaterTowerS_blueprint.label>
+  <WaterTowerS_Frame.label>torre de água (construção)</WaterTowerS_Frame.label>
+  <WaterTowerS_Frame.description>Armazena água para o uso de instalações hidráulicas. Se a água contida estiver contaminada, o tanque deve ser drenado.</WaterTowerS_Frame.description>
+
+  <WaterTowerL.label>torre de água grande</WaterTowerL.label>
+  <WaterTowerL.description>Armazena água para o uso de instalações hidráulicas. Se a água contida estiver contaminada, o tanque deve ser drenado.</WaterTowerL.description>
+  <WaterTowerL_blueprint.label>torre de água grande (projeto)</WaterTowerL_blueprint.label>
+  <WaterTowerL_Frame.label>torre de água grande (construção)</WaterTowerL_Frame.label>
+  <WaterTowerL_Frame.description>Armazena água para o uso de instalações hidráulicas. Se a água contida estiver contaminada, o tanque deve ser drenado.</WaterTowerL_Frame.description>
+
+  <WindPump.label>bomba eòlica</WindPump.label>
+  <WindPump.description>Bombeia a água dos poços para as torres de água. Capacidade de bombeamento: 3000 L/ dia</WindPump.description>
+  <WindPump_blueprint.label>bomba eòlica (projeto)</WindPump_blueprint.label>
+  <WindPump_Frame.label>bomba eòlica (construção)</WindPump_Frame.label>
+  <WindPump_Frame.description>Bombeia a água dos poços para as torres de água. Capacidade de bombeamento: 3000 L/ dia</WindPump_Frame.description>
+
+  <ElectricPump.label>bomba elétrica</ElectricPump.label>
+  <ElectricPump.description>Bombeia a água dos poços para as torres de água. Capacidade de bombeamento: 1500 L/ dia</ElectricPump.description>
+  <ElectricPump_blueprint.label>bomba elétrica (projeto)</ElectricPump_blueprint.label>
+  <ElectricPump_blueprint_Install.label>bomba elétrica  (projeto)</ElectricPump_blueprint_Install.label>
+  <ElectricPump_Frame.label>Bomba elétrica (construção)</ElectricPump_Frame.label>
+  <ElectricPump_Frame.description>Bombeia a água dos poços para as torres de água. Capacidade de bombeamento: 1500 L/ dia</ElectricPump_Frame.description>
+
+  <PumpingStation.label>estação de bombeamento</PumpingStation.label>
+  <PumpingStation.description>Bombeia a água dos poços para as torres de água. Capacidade de bombeamento: 10000 L/ dia</PumpingStation.description>
+  <PumpingStation_blueprint.label>estação de bombeamento (projeto)</PumpingStation_blueprint.label>
+  <PumpingStation_Frame.label>estação de bombeamento (construção)</PumpingStation_Frame.label>
+  <PumpingStation_Frame.description>Bombeia a água dos poços para as torres de água. Capacidade de bombeamento: 10000 L/ dia</PumpingStation_Frame.description>
+
+  <SewageOutlet.label>saida de esgoto</SewageOutlet.label>
+  <SewageOutlet.description>Pode ser colocado em qualquer lugar. O esgoto se acumula e se espalha por terra ou se dispersa na água. O esgoto limpa com o tempo; a presença de árvores, água ou chuva irá acelerar isso.</SewageOutlet.description>
+  <SewageOutlet_blueprint.label>saida de esgoto (projeto)</SewageOutlet_blueprint.label>
+  <SewageOutlet_Frame.label>saida de esgoto (construção)</SewageOutlet_Frame.label>
+  <SewageOutlet_Frame.description>Pode ser colocado em qualquer lugar. O esgoto se acumula e se espalha por terra ou se dispersa na água. O esgoto limpa com o tempo; a presença de árvores, água ou chuva irá acelerar isso.</SewageOutlet_Frame.description>
+
+  <SewageSepticTank.label>fossa séptica</SewageSepticTank.label>
+  <SewageSepticTank.description>Limpa lentamente o esgoto ao longo do tempo. O esgoto é direcionado para as fossas sépticas primeiro. Se atingir a capacidade total, o excesso de esgoto é enviado para as saida de esgoto.</SewageSepticTank.description>
+  <SewageSepticTank_blueprint.label>fossa séptica (projeto)</SewageSepticTank_blueprint.label>
+  <SewageSepticTank_Frame.label>fossa séptica (construção)</SewageSepticTank_Frame.label>
+  <SewageSepticTank_Frame.description>Limpa lentamente o esgoto ao longo do tempo. O esgoto é direcionado para as fossas sépticas primeiro. Se atingir a capacidade total, o excesso de esgoto é enviado para as saida de esgoto.</SewageSepticTank_Frame.description>
+
+  <SewageTreatment.label>tratamento de esgoto</SewageTreatment.label>
+  <SewageTreatment.description>Limpa lentamente o esgoto ao longo do tempo. Se atingir a capacidade total, o excesso de esgoto é enviado diretamente para os esgotos sem tratamento.</SewageTreatment.description>
+  <SewageTreatment_blueprint.label>tratamento de esgoto (projeto)</SewageTreatment_blueprint.label>
+  <SewageTreatment_Frame.label>tratamento de esgoto (construção)</SewageTreatment_Frame.label>
+  <SewageTreatment_Frame.description>Limpa lentamente o esgoto ao longo do tempo. Se atingir a capacidade total, o excesso de esgoto é enviado diretamente para os esgotos sem tratamento.</SewageTreatment_Frame.description>
+
+  <WaterTreatment.label>tratamento de água</WaterTreatment.label>
+  <WaterTreatment.description>Limpa 99,99% dos germes! Filtra a água existente nas torres de armazenamento e qualquer água usada pelos equipamentos, eliminando o risco de doença.</WaterTreatment.description>
+  <WaterTreatment_blueprint.label>tratamento de água (projeto)</WaterTreatment_blueprint.label>
+  <WaterTreatment_Frame.label>tratamento de água (construção)</WaterTreatment_Frame.label>
+  <WaterTreatment_Frame.description>Limpa 99,99% dos germes! Filtra a água existente nas torres de armazenamento e qualquer água usada pelos equipamentos, eliminando o risco de doença.</WaterTreatment_Frame.description>
+
+</LanguageData>

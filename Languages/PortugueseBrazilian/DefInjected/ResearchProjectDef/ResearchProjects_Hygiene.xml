@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SewageSludgeComposting.label>compostagem de Lodo de Esgoto</SewageSludgeComposting.label>
+  <SewageSludgeComposting.description>Quando tratados e processados adequadamente, o lodo de esgoto torna-se biossólido que oferece um pequeno impulso a fertilidade do terreno, útil para ambientes agressivos com espaço limitado para crescer. Os biossólidos também produzem um grande aumento na fertilidade da areia, o que pode torná-la fértil quando combinada com a irrigação.</SewageSludgeComposting.description>
+
+  <MultiSplitAirCon.label>ar Condicionado Multi Split</MultiSplitAirCon.label>
+  <MultiSplitAirCon.description>Construa sistemas de ar condicionado multi-split com unidades externas conectadas a unidades internas e freezers.</MultiSplitAirCon.description>
+
+  <Plumbing.label>encanamento</Plumbing.label>
+  <Plumbing.description>Use canos, instalações sanitárias, tanques de armazenamento, bomba éolica e outros aparelhos para fornecer e drenar água e esgoto.</Plumbing.description>
+
+  <LogBoilers.label>caldeira a lenha</LogBoilers.label>
+  <LogBoilers.description>Construa caldeira a lenha que possam ser usadas para aquecer salas e colocadas adjacentes aos banheiros para aquecer a água do banho.</LogBoilers.description>
+
+  <CentralHeating.label>aquecimento central</CentralHeating.label>
+  <CentralHeating.description>Construa sistemas de Aquecimento central com radiadores, tanques de água quente, caldeiras e termostatos.</CentralHeating.description>
+
+  <ModernFixtures.label>acessórios de banheiro moderno</ModernFixtures.label>
+  <ModernFixtures.description>Construa acessórios de banheiro  moderno, como privadas e chuveiros.</ModernFixtures.description>
+
+  <ElectricPumps.label>bomba Elétrica</ElectricPumps.label>
+  <ElectricPumps.description>Bombas de água motorizadas para bombeamento continuo de água.</ElectricPumps.description>
+
+  <AdvancedShowers.label>chuveiro Elétrico</AdvancedShowers.label>
+  <AdvancedShowers.description>Construa chuveiros elétricos que reduzem pela metade o tempo gasto no banho e melhoram o conforto.</AdvancedShowers.description>
+
+  <AdvancedToilets.label>privada Inteligente</AdvancedToilets.label>
+  <AdvancedToilets.description>Construa privadas inteligentes que são duas vezes mais eficientes em termos de água que os privadas comuns e proporcionam mais conforto.</AdvancedToilets.description>
+
+  <HotTubs.label>jacuzzi</HotTubs.label>
+  <HotTubs.description>Construa jacuzzis que podem ser usadas para hidroterapia, relaxamento e prazer.</HotTubs.description>
+
+  <LargeWaterPumps.label>bomba de água industrial</LargeWaterPumps.label>
+  <LargeWaterPumps.description>Construa bombas de água em escala industrial e tanques de armazenamento.</LargeWaterPumps.description>
+
+  <DeepWells.label>poço profundo</DeepWells.label>
+  <DeepWells.description>Perfure poços mais profundos para acessar uma área muito maior de águas subterrâneas..</DeepWells.description>
+
+  <WashingMachines.label>máquina de lavar</WashingMachines.label>
+  <WashingMachines.description>Construa máquinas de lavar que possam lavar a roupa tão bem que você nem poderia dizer que alguém morreu usando ela!.</WashingMachines.description>
+
+  <WaterFiltration.label>filtragem de água</WaterFiltration.label>
+  <WaterFiltration.description>Construir Construa sistemas de filtragem de água que tratem o suprimento de água, eliminando o risco de doença.</WaterFiltration.description>
+
+  <SepticTanks.label>fossa Séptica</SepticTanks.label>
+  <SepticTanks.description>Construir fossas sépticas que acumulam esgoto e fornecem tratamento moderado de esgoto.</SepticTanks.description>
+
+  <SewageTreatment.label>tratamento de esgoto</SewageTreatment.label>
+  <SewageTreatment.description>Construa estações de tratamento de esgoto para converter lentamente o esgoto de volta em água potável.</SewageTreatment.description>
+
+  <SwimmingPools.label>piscina</SwimmingPools.label>
+  <SwimmingPools.description>Construir piscinas.</SwimmingPools.description>
+
+  <Irrigation.label>irrigação</Irrigation.label>
+  <Irrigation.description>Construa aspersores de irrigação que podem irrigar o solo para melhorar a fertilidade.</Irrigation.description>
+
+  <FireSuppression.label>aspersor de incêndio</FireSuppression.label>
+  <FireSuppression.description>Construa aspersores que se ativam quando tem incêndios.</FireSuppression.description>
+
+</LanguageData>

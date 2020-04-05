@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ToiletStallDoor.label>porta para banheiro</ToiletStallDoor.label>
+  <ToiletStallDoor.description>Porta fina que bloqueia apenas a linha de visão das pessoas que usam o banheiro. Não cria novas salas ou evita a perda de calor.</ToiletStallDoor.description>
+  <ToiletStallDoor_blueprint.label>porta para banheiro (projeto)</ToiletStallDoor_blueprint.label>
+  <ToiletStallDoor_Frame.label>porta para banheiro (construção)</ToiletStallDoor_Frame.label>
+  <ToiletStallDoor_Frame.description>Porta fina que bloqueia apenas a linha de visão das pessoas que usam o banheiro. Não cria novas salas ou evita a perda de calor.</ToiletStallDoor_Frame.description>
+
+
+  <!-- Low Tech Stuff -->
+
+  <PitLatrine.label>latrina</PitLatrine.label>
+  <PitLatrine.description>Uma latrina com fossa, é um tipo de banheiro que coleta fezes humanas em um buraco no chão. Não precisa de água.</PitLatrine.description>
+  <PitLatrine_blueprint.label>latrina (projeto)</PitLatrine_blueprint.label>
+  <PitLatrine_blueprint_Install.label>letrina (projeto)</PitLatrine_blueprint_Install.label>
+  <PitLatrine_Frame.label>latrina (construção)</PitLatrine_Frame.label>
+  <PitLatrine_Frame.description>Uma latrina com fossa, é um tipo de banheiro que coleta fezes humanas em um buraco no chão. Não precisa de água.</PitLatrine_Frame.description>
+
+  <PrimitiveWell.label>poço Primitivo</PrimitiveWell.label>
+  <PrimitiveWell.description>Acesse as águas subterrâneas para encher baldes de água.</PrimitiveWell.description>
+  <PrimitiveWell_blueprint.label>poço Primitivo (projeto)</PrimitiveWell_blueprint.label>
+  <PrimitiveWell_Frame.label>poço Primitivo (construção)</PrimitiveWell_Frame.label>
+  <PrimitiveWell_Frame.description>Acesse as águas subterrâneas para encher baldes de água.</PrimitiveWell_Frame.description>
+
+  <WashBucket.label>balde de água</WashBucket.label>
+  <WashBucket.description>Balde de água usada para a higiene pessoal deve ser reabastecida regularmente com água fresca. Também pode ser usado para beber se a sede estiver ativada.</WashBucket.description>
+  <WashBucket_blueprint.label>balde para lavar (projeto)</WashBucket_blueprint.label>
+  <WashBucket_blueprint_Install.label>balde para lavar (projeto)</WashBucket_blueprint_Install.label>
+  <WashBucket_Frame.label>balde para lavar (construção)</WashBucket_Frame.label>
+  <WashBucket_Frame.description>Balde de água usada para a higiene pessoal deve ser reabastecida regularmente com água fresca. Também pode ser usado para beber se a sede estiver ativada.</WashBucket_Frame.description>
+
+  <LitterBox.label>caixa de areia</LitterBox.label>
+  <LitterBox.description>Uma caixa de areia usada para coletar fezes e urina de pequenos animais.</LitterBox.description>
+  <LitterBox_blueprint.label>caixa de areia (projeto)</LitterBox_blueprint.label>
+  <LitterBox_blueprint_Install.label>caixa de areia (projeto)</LitterBox_blueprint_Install.label>
+  <LitterBox_Frame.label>caixa de areia (construção)</LitterBox_Frame.label>
+  <LitterBox_Frame.description>Uma caixa de areia usada para coletar fezes e urina de pequenos animais.</LitterBox_Frame.description>
+
+  <BurnPit.label>fossa de Incineração</BurnPit.label>
+  <BurnPit.description>Elimina o lodo fecal, queimando-o como biocombustivel. Também pode ser usado para descartar cadáveres ou outros detritos. Os colonos podem ficar doentes se passarem muito tempo perto da queima de dejetos.</BurnPit.description>
+  <BurnPit_blueprint.label>fossa de Incineração (projeto)</BurnPit_blueprint.label>
+  <BurnPit_Frame.label>fossa de Incineração (construção)</BurnPit_Frame.label>
+  <BurnPit_Frame.description>Elimina o lodo fecal, queimando-o como combustivel. Também pode ser usado para descartar cadáveres ou outros detritos. Os colonos podem ficar doentes se passarem muito tempo perto da queima de dejetos.</BurnPit_Frame.description>
+
+
+  <!-- Basins -->
+
+  <Fountain.label>bebedouro</Fountain.label>
+  <Fountain.description>Uma fonte de água usada para beber e limpeza</Fountain.description>
+  <Fountain_blueprint.label>bebedouro (projeto)</Fountain_blueprint.label>
+  <Fountain_blueprint_Install.label>bebedouro (projeto)</Fountain_blueprint_Install.label>
+  <Fountain_Frame.label>bebedouro (construção)</Fountain_Frame.label>
+  <Fountain_Frame.description>Uma fonte de água usada para beber e limpeza</Fountain_Frame.description>
+
+  <BasinStuff.label>pia de banheiro</BasinStuff.label>
+  <BasinStuff.description>Pia de banheiro limpa e simples para manter as mãos limpas depois de usar o banheiro.</BasinStuff.description>
+  <BasinStuff_blueprint.label>pia de banheiro (projeto)</BasinStuff_blueprint.label>
+  <BasinStuff_blueprint_Install.label>pia de banheiro (projeto)</BasinStuff_blueprint_Install.label>
+  <BasinStuff_Frame.label>Pia de banheiro (construção)</BasinStuff_Frame.label>
+  <BasinStuff_Frame.description>Pia de banheiro limpa e simples para manter as mãos limpas depois de usar o banheiro.</BasinStuff_Frame.description>
+
+  <KitchenSink.label>pia da cozinha</KitchenSink.label>
+  <KitchenSink.description>Pia da cozinha. Aumenta a limpeza do quarto.</KitchenSink.description>
+  <KitchenSink_blueprint.label>pia da cozinha (projeto)</KitchenSink_blueprint.label>
+  <KitchenSink_blueprint_Install.label>pia da cozinha (projeto)</KitchenSink_blueprint_Install.label>
+  <KitchenSink_Frame.label>pia da cozinha (construção)</KitchenSink_Frame.label>
+  <KitchenSink_Frame.description>Pia da cozinha. Aumenta a limpeza do quarto.</KitchenSink_Frame.description>
+
+
+  <!-- Toilets -->
+
+  <ToiletStuff.label>privada</ToiletStuff.label>
+  <ToiletStuff.description>Aparelho sanitário utilizado para a eliminação de urina e fezes humanas.</ToiletStuff.description>
+  <ToiletStuff_blueprint.label>privada (projeto)</ToiletStuff_blueprint.label>
+  <ToiletStuff_blueprint_Install.label>privada (projeto)</ToiletStuff_blueprint_Install.label>
+  <ToiletStuff_Frame.label>privada (construção)</ToiletStuff_Frame.label>
+  <ToiletStuff_Frame.description>Aparelho sanitário utilizado para a eliminação de urina e fezes humanas.</ToiletStuff_Frame.description>
+
+  <ToiletAdv.description>Duas vezes mais eficiente em termos de água que uma privada comum. Oferece a experiência multifuncional ideal com limpeza e desodorização automáticas.</ToiletAdv.description>
+  <ToiletAdv_blueprint.label>privada inteligente (projeto)</ToiletAdv_blueprint.label>
+  <ToiletAdv_blueprint_Install.label>Privada inteligente  (projeto)</ToiletAdv_blueprint_Install.label>
+  <ToiletAdv_Frame.label>privada inteligente (construção)</ToiletAdv_Frame.label>
+  <ToiletAdv_Frame.description>Duas vezes mais eficiente em termos de água que uma privada comum. Oferece a experiência multifuncional ideal com limpeza e desodorização automáticas.</ToiletAdv_Frame.description>
+
+  <ToiletAdvStuff.label>privada inteligente</ToiletAdvStuff.label>
+  <ToiletAdvStuff.description>Duas vezes mais eficiente em termos de água que um banheiro comum. Oferece a experiência multifuncional ideal com limpeza e desodorização automáticas.</ToiletAdvStuff.description>
+  <ToiletAdvStuff_blueprint.label>privada inteligente (projeto)</ToiletAdvStuff_blueprint.label>
+  <ToiletAdvStuff_blueprint_Install.label>privada inteligente (projeto)</ToiletAdvStuff_blueprint_Install.label>
+  <ToiletAdvStuff_Frame.label>privada inteligente (construção)</ToiletAdvStuff_Frame.label>
+  <ToiletAdvStuff_Frame.description>Duas vezes mais eficiente em termos de água que um banheiro comum. Oferece a experiência multifuncional ideal com limpeza e desodorização automáticas.</ToiletAdvStuff_Frame.description>
+
+
+  <!-- Baths -->
+
+  <BathtubStuff.label>banheira</BathtubStuff.label>
+  <BathtubStuff.description>Lento para usar e requer grandes quantidades de água, mas muito confortável. Pode ser aquecido colocando uma fogueira ou caldeira adjacente ou através de tanques de água quente. Não requer uma saida de esgoto.</BathtubStuff.description>
+  <BathtubStuff_blueprint.label>banheira (projeto)</BathtubStuff_blueprint.label>
+  <BathtubStuff_blueprint_Install.label>banheira (projeto)</BathtubStuff_blueprint_Install.label>
+  <BathtubStuff_Frame.label>banheira (construção)</BathtubStuff_Frame.label>
+  <BathtubStuff_Frame.description>Lento para usar e requer grandes quantidades de água, mas muito confortável. Pode ser aquecido colocando uma fogueira ou caldeira adjacente ou através de tanques de água quente. Não requer uma saida de esgoto.</BathtubStuff_Frame.description>
+
+
+  <!-- Showers -->
+
+  <ShowerStuff.label>chuveiro</ShowerStuff.label>
+  <ShowerStuff.description>Possui um grande ducha de 110mm 4 pulverizado para relaxar os músculos doloridos.</ShowerStuff.description>
+  <ShowerStuff_blueprint.label>chuveiro (projeto)</ShowerStuff_blueprint.label>
+  <ShowerStuff_blueprint_Install.label>chuveiro (projeto)</ShowerStuff_blueprint_Install.label>
+  <ShowerStuff_Frame.label>chuveiro (construção)</ShowerStuff_Frame.label>
+  <ShowerStuff_Frame.description>Possui um grande ducha de 110mm 4 pulverizado para relaxar os músculos doloridos.</ShowerStuff_Frame.description>
+
+  <ShowerSimple.label>chuveiro simples</ShowerSimple.label>
+  <ShowerSimple.description>Chuveiro simples. Requer água das torres de água. Pode ser aquecido por tanques de água quente sob pressão. Não requer uma saida de esgoto.</ShowerSimple.description>
+  <ShowerSimple_blueprint.label>chuveiro simples (projeto)</ShowerSimple_blueprint.label>
+  <ShowerSimple_blueprint_Install.label>chuveiro simples (projeto)</ShowerSimple_blueprint_Install.label>
+  <ShowerSimple_Frame.label>chuveiro simples (construção)</ShowerSimple_Frame.label>
+  <ShowerSimple_Frame.description>Chuveiro simples. Requer água das torres de água. Pode ser aquecido por tanques de água quente sob pressão. Não requer um ligação com esgoto.</ShowerSimple_Frame.description>
+
+  <ShowerAdvStuff.label>chuveiro eléctrico</ShowerAdvStuff.label>
+  <ShowerAdvStuff.description>Possui um grande ducha de 110mm 4 pulverizado para relaxar os músculos doloridos. água quente  dobra a velocidade do banho!</ShowerAdvStuff.description>
+  <ShowerAdvStuff_blueprint.label>chuveiro eléctrico (projeto)</ShowerAdvStuff_blueprint.label>
+  <ShowerAdvStuff_blueprint_Install.label>chuveiro eléctrico (projeto)</ShowerAdvStuff_blueprint_Install.label>
+  <ShowerAdvStuff_Frame.label>chuveiro eléctrico (construção)</ShowerAdvStuff_Frame.label>
+  <ShowerAdvStuff_Frame.description>Possui um grande ducha de 110mm 4 pulverizado para relaxar os músculos doloridos. água quente dobra a velocidade do banho!</ShowerAdvStuff_Frame.description>
+
+</LanguageData>

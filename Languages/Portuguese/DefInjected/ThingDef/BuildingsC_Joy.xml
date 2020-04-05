@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DBHSwimmingPool.label>piscina</DBHSwimmingPool.label>
+  <DBHSwimmingPool.description>Piscina utilizada para hidroterapia, relaxamento ou prazer. Deve ser preenchido com água das torres de água primeiro.</DBHSwimmingPool.description>
+  <DBHSwimmingPool_Blueprint.label>piscina (projeto)</DBHSwimmingPool_Blueprint.label>
+  <DBHSwimmingPool_Frame.label>piscina (construção)</DBHSwimmingPool_Frame.label>
+  <DBHSwimmingPool_Frame.description>Piscina utilizada para hidroterapia, relaxamento ou prazer. Deve ser preenchido com água das torres de água primeiro.</DBHSwimmingPool_Frame.description>
+
+  <HotTub.label>jacuzzi</HotTub.label>
+  <HotTub.description>Jacuzzi usada para hidroterapia, relaxamento ou prazer. Deve ser preenchido com água das torres de água primeiro. Auto aquecido e não requer uma saida de esgoto.</HotTub.description>
+  <HotTub_Blueprint.label>jacuzzi (projeto)</HotTub_Blueprint.label>
+  <HotTub_Blueprint_Install.label>jacuzzi (projeto)</HotTub_Blueprint_Install.label>
+  <HotTub_Frame.label>jacuzzi (construção)</HotTub_Frame.label>
+  <HotTub_Frame.description>Jacuzzi usada para hidroterapia, relaxamento ou prazer. Deve ser preenchido com água das torres de água primeiro. Auto aquecido e não requer uma saida de esgoto.</HotTub_Frame.description>
+
+  <WashingMachine.label>máquina de lavar</WashingMachine.label>
+  <WashingMachine.description>Lava a roupa tão bem que você nem pode dizer que alguém morreu usando!</WashingMachine.description>
+  <WashingMachine_Blueprint.label>máquina de lavar (projeto)</WashingMachine_Blueprint.label>
+  <WashingMachine_Blueprint_Install.label>máquina de lavar (projeto)</WashingMachine_Blueprint_Install.label>
+  <WashingMachine_Frame.label>máquina de lavar (construção)</WashingMachine_Frame.label>
+  <WashingMachine_Frame.description>Lava a roupa tão bem que você nem pode dizer que alguém morreu usando!</WashingMachine_Frame.description>
+
+</LanguageData>

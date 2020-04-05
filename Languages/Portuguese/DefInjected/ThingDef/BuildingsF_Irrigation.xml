@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Irrigation -->
+
+  <IrrigationSprinkler.label>aspersor de irrigação</IrrigationSprinkler.label>
+  <IrrigationSprinkler.description>Irriga a área circundante toda manhã para melhorar a fertilidade do solo durante o dia. Requer grandes quantidades de água das reservatório de água durante a pulverização.</IrrigationSprinkler.description>
+  <IrrigationSprinkler_Blueprint.label>aspersor de irrigação(projeto)</IrrigationSprinkler_Blueprint.label>
+  <IrrigationSprinkler_Blueprint_Install.label>aspersor de irrigação(projeto)</IrrigationSprinkler_Blueprint_Install.label>
+  <IrrigationSprinkler_Frame.label>aspersor de irrigação(construção)</IrrigationSprinkler_Frame.label>
+  <IrrigationSprinkler_Frame.description>Irriga a área circundante toda manhã para melhorar a fertilidade do solo durante o dia. Requer grandes quantidades de água das reservatório de água durante a pulverização.</IrrigationSprinkler_Frame.description>
+
+  <FireSprinkler.label>aspersor de incêndio</FireSprinkler.label>
+  <FireSprinkler.description>Acionado por fogo ou alta temperatura. Chamas apagadas com um spray de água.</FireSprinkler.description>
+  <FireSprinkler.comps.2.useLabel>aspersor de incêndio</FireSprinkler.comps.2.useLabel>
+  <FireSprinkler_Blueprint.label>aspersor de incêndio (projeto)</FireSprinkler_Blueprint.label>
+  <FireSprinkler_Blueprint_Install.label>aspersor de incêndio(projeto)</FireSprinkler_Blueprint_Install.label>
+  <FireSprinkler_Frame.label>aspersor de incêndio(construção)</FireSprinkler_Frame.label>
+  <FireSprinkler_Frame.description>Acionado por fogo ou alta temperatura. Chamas apagadas com um spray de água.</FireSprinkler_Frame.description>
+
+  <BiosolidsComposter.label>compostagem de Biossólidos</BiosolidsComposter.label>
+  <BiosolidsComposter.description>Compostagem para converter esgoto em adubos para aumentar a fertilidade das terras cultiváveis.</BiosolidsComposter.description>
+  <BiosolidsComposter_Blueprint.label>compostagem de Biossólidos(projeto)</BiosolidsComposter_Blueprint.label>
+  <BiosolidsComposter_Blueprint_Install.label>compostagem de Biossólidos(projeto)</BiosolidsComposter_Blueprint_Install.label>
+  <BiosolidsComposter_Frame.label>compostagem de Biossólidos(construção)</BiosolidsComposter_Frame.label>
+  <BiosolidsComposter_Frame.description>Compostagem para converter esgoto em adubos para aumentar a fertilidade das terras cultiváveis.</BiosolidsComposter_Frame.description>
+
+  <BiosolidFertilizer.label>adubo Biossólido</BiosolidFertilizer.label>
+  <BiosolidFertilizer.description>Adubo Biossólido usado para aumentar a fertilidade de terras cultiváveis. Dura um pouco menos de 1 ano.</BiosolidFertilizer.description>
+  <BiosolidFertilizer_Blueprint.label>abudo Biossólido(projeto)</BiosolidFertilizer_Blueprint.label>
+  <BiosolidFertilizer_Frame.label>adubo Biossólido(construção)</BiosolidFertilizer_Frame.label>
+  <BiosolidFertilizer_Frame.description>Adubo Biossólido usado para aumentar a fertilidade de terras cultiváveis. Dura um pouco menos de 1 ano.</BiosolidFertilizer_Frame.description>
+
+</LanguageData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlaceFertilizer.label>adubar</PlaceFertilizer.label>
+  <PlaceFertilizer.verb>adubar</PlaceFertilizer.verb>
+  <PlaceFertilizer.gerund>adubando</PlaceFertilizer.gerund>
+
+  <ClearBlockage.label>limpar bloqueio</ClearBlockage.label>
+  <ClearBlockage.verb>limpar bloqueio</ClearBlockage.verb>
+  <ClearBlockage.gerund>eliminando bloqueio</ClearBlockage.gerund>
+
+  <DBHAdministerFluids.label>administra fluidos</DBHAdministerFluids.label>
+  <DBHAdministerFluids.verb>administrar fluidos</DBHAdministerFluids.verb>
+  <DBHAdministerFluids.gerund>administrando os fluidos</DBHAdministerFluids.gerund>
+
+  <washPatient.label>limpa paciente</washPatient.label>
+  <washPatient.verb>limpar</washPatient.verb>
+  <washPatient.gerund>limpando paciente</washPatient.gerund>
+
+  <DocCleanBedpan.label>limpa penico</DocCleanBedpan.label>
+  <DocCleanBedpan.verb>limpar</DocCleanBedpan.verb>
+  <DocCleanBedpan.gerund>limpando</DocCleanBedpan.gerund>
+
+  <cleanBedpan.label>lava penico</cleanBedpan.label>
+  <cleanBedpan.verb>lavar</cleanBedpan.verb>
+  <cleanBedpan.gerund>lavando</cleanBedpan.gerund>
+
+  <TipSewage.label>despejar</TipSewage.label>
+  <TipSewage.verb>despejar esgoto</TipSewage.verb>
+  <TipSewage.gerund>despejando</TipSewage.gerund>
+
+  <DrainWaterTank.label>drena água</DrainWaterTank.label>
+  <DrainWaterTank.verb>drenar</DrainWaterTank.verb>
+  <DrainWaterTank.gerund>drenando</DrainWaterTank.gerund>
+
+</LanguageData>

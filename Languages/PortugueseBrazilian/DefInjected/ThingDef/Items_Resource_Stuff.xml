@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BedPan.label>penico</BedPan.label>
+  <BedPan.description>Um receptáculo usado por um paciente acamado para urina e defecar.</BedPan.description>
+
+  <Biosolids.label>biossólidos</Biosolids.label>
+  <Biosolids.description>Quando tratados e processados adequadamente, o lodo de esgoto torna-se biossólido que oferece um pequeno impulso a fertilidade do terreno, útil para ambientes agressivos com espaço limitado para crescer. Os biossólidos também produzem um grande aumento na fertilidade da areia, o que pode torná-la fértil quando combinada com a irrigação.</Biosolids.description>
+
+  <FecalSludge.label>lodo fecal</FecalSludge.label>
+  <FecalSludge.description>Um barril cheio de lodo fecal pode ser despejado, queimado ou usado como adubo.</FecalSludge.description>
+
+  <DBH_WaterBottle.label>água</DBH_WaterBottle.label>
+  <DBH_WaterBottle.description>Uma garrafa de água.</DBH_WaterBottle.description>
+  <DBH_WaterBottle.ingestible.ingestCommandString>Beber {0}</DBH_WaterBottle.ingestible.ingestCommandString>
+  <DBH_WaterBottle.ingestible.ingestReportString>Bebendo {0}.</DBH_WaterBottle.ingestible.ingestReportString>
+
+</LanguageData>
